@@ -7,3 +7,13 @@
 
 ## Blockchain Infrastructure 
 - https://medium.com/@trentmc0/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe
+
+## Consensus Algorithms
+- https://tokens-economy.gitbook.io/consensus/blockchain-consensus
+- http://www.beyondthelines.net/algorithm/multi-paxos/
+- https://observablehq.com/@stwind/raft-consensus-simulator
+- https://echentw.github.io/paxos-demo/
+- https://o3schools.com/hybrid-pow-pos-consensus/
+- https://www.blockchain-council.org/blockchain/a-brief-introduction-to-hybrid-powpos-consensus-mechanism/
+- https://medium.com/coinmonks/implementing-pbft-in-blockchain-12368c6c9548
+- https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/
