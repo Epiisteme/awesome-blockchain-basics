@@ -15,5 +15,11 @@
 - https://echentw.github.io/paxos-demo/
 - https://o3schools.com/hybrid-pow-pos-consensus/
 - https://www.blockchain-council.org/blockchain/a-brief-introduction-to-hybrid-powpos-consensus-mechanism/
+- https://dailycoin.com/ethereums-proof-of-stake-transition-is-50-completed-vitalik-buterin/
+- https://perfectial.com/blog/ethereum-switches-to-proof-of-stake/
 - https://medium.com/coinmonks/implementing-pbft-in-blockchain-12368c6c9548
+- https://medium.com/coinmonks/pbft-understanding-the-algorithm-b7a7869650ae
 - https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/
+- https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/
+- https://ethereum.org/en/developers/docs/consensus-mechanisms/ 
+- https://www.diem.com/en-us/blog/libra-bft-protocol/
