@@ -23,3 +23,4 @@
 - https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/
 - https://ethereum.org/en/developers/docs/consensus-mechanisms/ 
 - https://www.diem.com/en-us/blog/libra-bft-protocol/
+- https://sawtooth.hyperledger.org/docs/pbft/releases/latest/architecture.html
