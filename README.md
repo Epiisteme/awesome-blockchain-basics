@@ -8,6 +8,9 @@
 ## Blockchain Infrastructure 
 - https://medium.com/@trentmc0/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe
 
+## Blockchain Usecases
+- https://consensys.net/blockchain-use-cases/finance/
+
 ## Consensus Algorithms
 - https://tokens-economy.gitbook.io/consensus/blockchain-consensus
 - http://www.beyondthelines.net/algorithm/multi-paxos/
