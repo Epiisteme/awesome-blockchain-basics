@@ -10,6 +10,7 @@
 
 ## Blockchain Usecases
 - https://consensys.net/blockchain-use-cases/finance/
+- https://intone.com/blockchain-in-fintech/
 
 ## Consensus Algorithms
 - https://tokens-economy.gitbook.io/consensus/blockchain-consensus
