@@ -6,6 +6,12 @@
 - https://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf
 - https://nvlpubs.nist.gov/nistpubs/ir/2018/nist.ir.8202.pdf
 
+## Tokenisation
+- https://www.blockchain-council.org/blockchain/what-is-tokenization/
+- https://axletrees.com/smart-contracts-and-tokenization-to-revolutionize-open-account-trade/
+- https://blockchainmagazine.net/tokenization-on-blockchain-how-it-really-works/
+- https://www.oecd.org/finance/The-Tokenisation-of-Assets-and-Potential-Implications-for-Financial-Markets-HIGHLIGHTS.pdf
+
 ## Blockchain Infrastructure 
 - https://medium.com/@trentmc0/blockchain-infrastructure-landscape-a-first-principles-framing-92cc5549bafe
 
